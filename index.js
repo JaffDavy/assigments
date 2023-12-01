@@ -25,7 +25,7 @@
 //         if (str[i] === 'B') {
 //             count += 1
 //         }
-//     } 
+//     }
 //     return count
 // }
 // console.log(countBs('BandaBan'))
@@ -36,7 +36,7 @@
 
 // let count = 0
 // function CountChar(str, char) {
-//     for (let i = 0; i <= str.length - 1; i++) { 
+//     for (let i = 0; i <= str.length - 1; i++) {
 //       if (str[i] === char) {
 //           count += 1
 //       }
@@ -61,7 +61,6 @@
 //     return arr
 //     }
 // console.log(fabonacci(10))
-
 
 // #5
 // Write a function range that takes 2 arguments
@@ -131,7 +130,7 @@
 //        count += arr[i]
 //     }
 //     avg = count / arr.length
-//     return avg 
+//     return avg
 // }
 // console.log(arr)
 // #10
@@ -148,13 +147,3 @@
 //   }
 // }
 // console.log(deepEqual(6, 3))
-
-
-
-
-
-
-
-
-
-
