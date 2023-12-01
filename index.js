@@ -25,7 +25,7 @@
 //         if (str[i] === 'B') {
 //             count += 1
 //         }
-//     } 
+//     }
 //     return count
 // }
 // console.log(countBs('BandaBan'))
@@ -36,7 +36,7 @@
 
 // let count = 0
 // function CountChar(str, char) {
-//     for (let i = 0; i <= str.length - 1; i++) { 
+//     for (let i = 0; i <= str.length - 1; i++) {
 //       if (str[i] === char) {
 //           count += 1
 //       }
@@ -62,7 +62,6 @@
 //     }
 // console.log(fabonacci(10))
 
-
 // #5
 // Write a function range that takes 2 arguments
 // start and end and return an arrey containing
@@ -80,8 +79,8 @@
 
 // #6
 // Write a stepRange that acts like ranges but takes an extra increment or decrement parameter
-// stepRange (1, 10, 2) =>[1,3,5,7,9]
-// stepRange (5, 1, -1) =>[5,4,3,2,1]
+// stepRange (1, 10, 2) => [1,3,5,7,9]
+// stepRange (5, 1, -1) => [5,4,3,2,1]
 
 // const arr = []
 // function stepRange(a, b, c) {
@@ -131,7 +130,7 @@
 //        count += arr[i]
 //     }
 //     avg = count / arr.length
-//     return avg 
+//     return avg
 // }
 // console.log(arr)
 // #10
@@ -148,13 +147,3 @@
 //   }
 // }
 // console.log(deepEqual(6, 3))
-
-
-
-
-
-
-
-
-
-
